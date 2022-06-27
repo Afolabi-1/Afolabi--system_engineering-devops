@@ -1,0 +1,1 @@
+creating redirection scripts
